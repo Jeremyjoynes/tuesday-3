@@ -108,5 +108,5 @@ let truck = new ExtendedCabTruck('MAC', 'Extended Hauler', 2014, 50000);
 car.drive();
 truck.drive();
 
-console.log(car);
-console.log(truck);
+let vehicles: IVehicle[] = [car, truck];
+
