@@ -1,0 +1,17 @@
+{
+  "name": "tuesday-3",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Bryan Wood <whenidev@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
